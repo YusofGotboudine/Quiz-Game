@@ -70,6 +70,7 @@ var winCondition = function (event) {
 var loseCondition = function (event) {
     displayBox.textContent = "Good Attempt!";
     removeOptions();
+    //home button
 };
 
 var answerCheck = function (currentInput) {
