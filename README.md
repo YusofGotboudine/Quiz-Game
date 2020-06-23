@@ -1,5 +1,7 @@
 # unit1-template
 
+Hello World
+
 Use this empty template to start your interactive programs.
 
 How to use:
